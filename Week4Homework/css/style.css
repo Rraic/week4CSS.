@@ -1,0 +1,35 @@
+.colorbox{
+background-color: antiquewhite;
+}
+
+.span_box{
+color: rgb(77, 77, 18);
+
+}
+#myarticle {
+background-color: burlywood;
+
+}
+
+.shoebill{
+    background-color: rgb(49, 194, 126);
+}
+#david{
+padding: 5px 20px;
+border-style: crimson; 
+}
+
+.styled-heading {
+    
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.styled-heading2 {
+    background-color:lightblue;
+    width: 100px;
+    border:5px solid black;
+    padding: 10px;
+    margin: 0 auto; 
+    text-align: center;
+}
